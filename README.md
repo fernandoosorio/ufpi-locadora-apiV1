@@ -1,7 +1,7 @@
 # Sistema para Controle de uma Locadora de Veículos
 
 ### Para executar este projeto
-1.  baixe ou clone o projeto `git clone https://github.com/fernandoosorio/ufpi-locadora-api`
+1.  baixe ou clone o projeto `git clone https://github.com/{oculta_para_avaliação}/{oculta_para_avaliação}-locadora-api`
 
 2. Acesse o diretório  `cd ufpi-locadora-api`
 
